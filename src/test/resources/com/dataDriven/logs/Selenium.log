@@ -1,0 +1,11 @@
+10:00:07,218 DEBUG TestBase:34 - Started the session.
+10:00:07,221 DEBUG TestBase:39 - Config properties loaded successfully
+10:00:07,222 DEBUG TestBase:43 - Object repository properties loaded successfully
+10:00:10,425 DEBUG TestBase:48 - Launched Chrome browser
+10:00:11,308 DEBUG TestBase:58 - Navigate to http://www.way2automation.com/angularjs-protractor/banking/#/login
+10:00:11,461 DEBUG TestBase:14 - Login as bank manager and validating Add customer button
+10:00:11,876 DEBUG TestBase:33 - Get the data from dataprovider
+10:00:11,885 DEBUG TestBase:17 - Add new customer: Rahul Arora
+10:00:12,406 DEBUG TestBase:17 - Add new customer: Ishita Arora
+10:00:12,922 DEBUG TestBase:17 - Add new customer: Rohit Sehgal
+10:00:13,399 DEBUG TestBase:67 - Quitting the session.

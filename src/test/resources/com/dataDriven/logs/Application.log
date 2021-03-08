@@ -1,0 +1,13 @@
+08/03/2021 10:23:21 devpinoyLogger Started the session.
+08/03/2021 10:23:21 devpinoyLogger Config properties loaded successfully
+08/03/2021 10:23:21 devpinoyLogger Object repository properties loaded successfully
+08/03/2021 10:23:25 devpinoyLogger Launched Chrome browser
+08/03/2021 10:23:26 devpinoyLogger Navigate to http://www.way2automation.com/angularjs-protractor/banking/#/login
+08/03/2021 10:23:26 devpinoyLogger Login as bank manager and validating Add customer button
+08/03/2021 10:23:26 devpinoyLogger Login as bank manager and validating Add customer button
+08/03/2021 10:23:31 devpinoyLogger Login as bank manager and validating Add customer button
+08/03/2021 10:23:36 devpinoyLogger Get the data from dataprovider
+08/03/2021 10:23:36 devpinoyLogger Add new customer: Rahul Arora
+08/03/2021 10:23:37 devpinoyLogger Add new customer: Ishita Arora
+08/03/2021 10:23:37 devpinoyLogger Add new customer: Rohit Sehgal
+08/03/2021 10:23:38 devpinoyLogger Quitting the session.
