@@ -24,11 +24,4 @@ public class BankManagerTests extends TestBase{
 		Assert.fail("Failing forecfully");
 	}
 	
-	@Test
-	public void loginAsBankManager2() throws InterruptedException {
-		log.debug("Login as bank manager and validating Add customer button");
-		Thread.sleep(5000);
-		Assert.fail("Failing forecfully");
-	}
-	
 }
